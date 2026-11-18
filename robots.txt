@@ -1,0 +1,3 @@
+# Sito dimostrativo di un’azienda di fantasia: escluso dai motori di ricerca.
+User-agent: *
+Disallow: /
